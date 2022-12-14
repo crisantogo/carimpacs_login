@@ -9,7 +9,7 @@ import { AuthGuard } from "./services/auth-guard.service"
 
 const routes: Routes = [
   { path:"", component: HomeComponent },
-  { path:"dashboard", component: DashboardComponent, canActivate: [AuthGuard] },
+  { path:"dashboard", component: DashboardComponent, canActivate: [AuthGuard] },//Allows access to page only when signed in.
   { path:"login", component: LoginComponent },
   { path:"signup", component: SignupComponent },
   { path:"**", redirectTo: "" },
