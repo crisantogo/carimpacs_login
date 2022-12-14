@@ -1,0 +1,25 @@
+<mat-toolbar color="accent">
+<span>
+    <a routerLink="/">
+        <span>CARIMPACS</span>
+    </a>
+</span>
+<span>
+    <a routerLink="/dashboard">
+        <span>Dashboard</span>
+    </a>
+    <a *ngIf="!isAuthenticated" routerLink="/login">
+        <span>Login</span>
+    </a>
+    <a
+    *ngIf="isAuthenticated"
+    (click)="logout()"
+    routerLink="/login"
+  >
+    <span>Logout</span>
+  </a>
+    <a *ngIf="!isAuthenticated" routerLink="/signup">
+        <span>Signup</span>
+    </a>
+</span>
+</mat-toolbar>
