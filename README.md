@@ -10,7 +10,7 @@ A proposal for a login and registration page. App has login functionality. User 
 
 You must have **NPM** and **Angular/Angular CLI** installed to initialize this project.
 <ul>
-  <li>```Fork``` the repo to your Github.</li>
+  <li><code>Fork</code> the repo to your Github.</li>
 <li>Clone your fork to your local machine using `git pull`.</li>
 <li>Run `npm i` to install dependencies.</li>
 <li>Set your SQL Database configurations in the `config/config.json` file.</li>
