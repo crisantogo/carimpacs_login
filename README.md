@@ -9,12 +9,14 @@ A proposal for a login and registration page. App has login functionality. User 
 **Tech used:** NodeJS, Express on the backend. Angular, Angular Material on the frontend. MySQL database.
 
 You must have **NPM** and **Angular/Angular CLI** installed to initialize this project.
-`Fork` the repo to your Github.
-Clone your fork to your local machine using `git pull`.
-Run `npm i` to install dependencies.
-Set your SQL Database configurations in the `config/config.json` file
-Use `npm start` to start the server.
-And `ng serve` to run Angular on the client side. Usually at `localhost:4200.`
+<ul>
+  <li>`Fork` the repo to your Github.</li>
+<li>Clone your fork to your local machine using `git pull`.</li>
+<li>Run `npm i` to install dependencies.</li>
+<li>Set your SQL Database configurations in the `config/config.json` file.</li>
+<li>Use `npm start` to start the server.</li>
+<li>And `ng serve` to run Angular on the client side. Usually at `localhost:4200.`</li>
+</ul>
 
 
 
