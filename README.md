@@ -5,15 +5,15 @@ A proposal for a login and registration page. App has login functionality. User 
 ## How It's Made:
 
 **Tech used:** NodeJS, Express on the backend. Angular, Angular Material on the frontend. MySQL database.
-<ul>
-<li>You must have **NPM** and **Angular/Angular CLI** installed to initialize this project.</li>
+
+You must have **NPM** and **Angular/Angular CLI** installed to initialize this project.
 **Fork** the repo to your Github.
 Clone your fork to your local machine using **git pull**.
 Run **npm i** to install dependencies.
 Set your SQL Database configurations in the **config/config.json** file
 Use **npm start** to start the server.
 And **ng serve** to run Angular on the client side. Usually at **localhost:4200.**
-</ul>
+
 
 
 
