@@ -1,6 +1,8 @@
 # CARIMPACS Login
 A proposal for a login and registration page. App has login functionality. User will be able to see that they are signed in and has the ability to logout. 
 
+<img src="https://github.com/crisantogo/carimpacs_login/blob/main/frontend/src/assets/Login_SS.png" width="100%" alt="CARIMPACS Login Screenshot">
+
 
 ## How It's Made:
 
