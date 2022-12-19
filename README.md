@@ -15,7 +15,7 @@ You must have **NPM** and **Angular/Angular CLI** installed to initialize this p
 <li>Run <code>npm i</code> to install dependencies.</li>
 <li>Set your SQL Database configurations in the <code>config/config.json</code> file.</li>
 <li>Use <code>npm start</code> to start the server.</li>
-<li>And <code>ng serve</code> to run Angular on the client side. Usually at <code>localhost:4200.</code></li>
+<li>And <code>ng serve</code> to run Angular on the client side. Usually at <code>localhost:4200</code>.</li>
 </ul>
 
 
